@@ -1,4 +1,4 @@
-package com.sample.practice;
+package com.leetcode.solutions;
 
 public class AddingCharacters {
 

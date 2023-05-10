@@ -1,4 +1,4 @@
-package com.sample.practice;
+package com.leetcode.solutions;
 
 import java.util.Arrays;
 import java.util.Map;
