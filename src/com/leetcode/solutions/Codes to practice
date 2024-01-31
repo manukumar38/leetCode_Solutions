@@ -1,0 +1,25 @@
+Switch case in a string (solution without using string functions,1) use Charater functions 2)use ascii values  +-32 3)use bitwise operator
+how to optimize using multithreading (use ExecutorService block)
+Producer consumer problem
+Thread deadlock problem
+print duplicate/unique elements in a List (use colletors.groupingBy)
+Merge two unsorted array
+Find max and min in integer list
+Find two strings are anagram
+check palindrome
+Find duplicate character in a string
+Find out strings starting with digit in a list
+separate even and odd numbers in a list
+print first 10 even numbers (use Intstream)
+Find sum of all digits in a number without converting to string (use i%10 then i/10 in a loop)
+Serialization code / Deserializaton
+Password encryption and decryption (Cipher AES)
+Password criteria validation(use regex)
+Find age if DOB is given (use LocalDate and Chrnounit.years.between)
+Singleton pattern (Logger, DatabaseConnection, ConfigurationManager Implementation)
+Money transfer A->B->C multithreading millions of user
+Application is running slow how to optimize
+Parking lot (3 entrance -> how many cars are parked)
+StringPowerSet(all possible combinations in a string)
+Find all possible anagrams in a string
+
