@@ -12,6 +12,8 @@ public class FindAllAnagramsOfString {
     }
     private void anagm(String str, int start, int end)
     {
+
+        //refer video for understanding https://www.youtube.com/watch?v=DiQmQMAahHg
         if (start == end)
             System.out.println(str);
         else {
