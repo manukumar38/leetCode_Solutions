@@ -8,10 +8,10 @@ public class StringPowerSet {
             return;
         }
 
-        //don't pick
+        //subset of bc => {"b" ,"c","bc", ""}
         abc(input.substring(1), output);
 
-        //pick
+        //adding a to subset of bc => {"ab","ac","abc","a"}, combine both subsets
         abc(input.substring(1), output+input.charAt(0));
 
     }
