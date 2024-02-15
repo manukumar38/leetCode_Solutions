@@ -15,7 +15,6 @@ public class StringPowerSet {
         abc(input.substring(1), output+input.charAt(0));
 
     }
-
     public static void main(String[] args) {
 
         abc ("abc", "");
